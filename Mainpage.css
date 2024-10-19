@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding:0;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#main{
+   height: 100%;
+   width: 100%;
+}
+#fakeheader{
+    height: 100px;
+    width: 100%;
+    background-color:black;
+}
+#headerpage{
+    height: 100px;
+    width: 100%;
+    background-color:black;
+    position: fixed;
+    display: flex;
+}
+#cakebakelogo{
+margin-bottom: 300px;
+margin-top: 0%;
+align-self: flex-end;
+}
+#cakebakelog{
+    margin-bottom: 5%;
+    margin-top: 0%;
+    
+}
+.ak{
+    color: white;
+}
+#changecolor:hover{
+    color: blue;
+
+}
+.navitems{
+    margin-top: 2%;
+    margin-right: 4%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+#searchbar{
+    margin-left: 500px;
+}
+#home{
+
+}
+.pages{
+    height: 100%;
+    width: 100%;
+}
+#page1{
+    background-color:white;
+    display: flex;
+}
+#welcomecake{
+    margin-left: 250px;
+    margin-top: 100px;
+}
+#welcometext{
+    height: 460px;
+    width: 800px;
+    background-color:white;
+    margin-top:30px ;
+    margin-left: 50px;
+}
+#welcomehead{
+    margin-left: 5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+}
+#para{
+    margin-left: 50px;
+    margin-top: 5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#bestselling{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    justify-content: center;
+    display: flex;
+}
+#page2{
+    background-color:antiquewhite;
+    height: 90%;
+    width: 100%;
+}
+#page2heading{
+    display: flex;
+    justify-content: center;
+}
+#bestsellerheading{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Gallery{
+    margin-left: 100px;
+    margin-top: 20px;
+    border: solid black;
+    display: inline-block;
+}
+.description{
+    border-top: solid black;
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+#page3{
+    background-color: antiquewhite;
+    height: 40%;
+    
+}
+#aboutusheading{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* margin-top: 20px; */
+    margin-bottom: 20px;
+}
+#about{
+   margin-left: 200px;
+}
+#aboutimage{
+    margin-top: 100px;
+    margin-left: 100px;
+
+}
+#footer{
+    height: 50%;
+    display: flex;
+    background-color:snow;
+}
+#abouttext{
+    margin-left: 40px;
+    margin-top: 105px;
+}
+

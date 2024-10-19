@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding:0;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+}
+.Gallery{
+    margin-left: 100px;
+    margin-top: 20px;
+    border: solid black;
+    display: inline-block;
+}
+.description{
+    border-top: solid black;
+    display: flex;
+    color: black;
+}
+.price{
+    margin-left: 20px;
+}
+#Feedbackbox{
+    width: 50%;
+    height: 60%;
+}
